@@ -29,4 +29,3 @@
 - в ячейке <span style="color:green">restoring predicted mask</span> установить <span style="color:red">n\_crops</span> в соответствии с таблицей;
 - в ячейке <span style="color:green">saving predicted mask</span> установить <span style="color:red">org\_img\_size</span> в соответствии с таблицей;
 - предсказанную маску можно увидеть в блокноте или в папке Test/.
-
